@@ -6,3 +6,8 @@
 ![elbow curve](Photos/bokeh_plot.png)
 ### Then I created a model using Kmeans to implement the amount of clusters I thought would be correct
 ![Kmeans](Photos/Kmeans.jpg)
+
+### Then I plotted the Kmeans Data 
+![Kmeansplot](Photos/coin_clusters_plot.png)
+
+## Optimize Clusters with Principal Component Analysis is the next step
