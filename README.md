@@ -11,3 +11,8 @@
 ![Kmeansplot](Photos/coin_clusters_plot.png)
 
 ## Optimize Clusters with Principal Component Analysis is the next step
+![pca](Photos/PCA.jpg)
+
+### With that optimization I found going through the proccess lead to less steps with similar accuracy and results.
+
+# This is the elbow of the PCA data
