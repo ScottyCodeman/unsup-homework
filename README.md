@@ -16,3 +16,9 @@
 ### With that optimization I found going through the proccess lead to less steps with similar accuracy and results.
 
 # This is the elbow of the PCA data
+![pca_elbow](Photos/pca_elbow.png)
+
+# This is the cluster of PCA data
+![pca_cluster](Photos/pca_clusters.png)
+
+## In conclusion after running the Kmeans model with the PCA data and the orginal data the PCA model allows for less time between processing, it achevied the same result in less steps.
